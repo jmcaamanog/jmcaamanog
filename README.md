@@ -1,4 +1,4 @@
-# ¡Hola! Soy Jose 👋
+# ¡Hola! Soy Jose Manuel Caamaño, Arquitecto técnico ConTech!👋
 
 **Digital Product Lead | ConTech & Digital Twin SaaS | BIM, Energy Modeling & Sustainability | Data Analytics (SQL, Power BI)**
 
@@ -10,8 +10,13 @@ Arquitecto Técnico y BIM Manager operando desde la trinchera en A Coruña. ☕ 
 
 * 🏗️ Lidero el desarrollo de productos digitales, herramientas ConTech y Gemelos Digitales (Digital Twins).
 * 🎓 **Investigación:** Soy doctorando (PhD student) enfocado en la integración de Inteligencia Artificial (IA) e IoT para monitorizar y mejorar la calidad ambiental en la edificación.
-* 👨‍🏫 **Docencia:** Ejerzo como profesor de competencias digitales en el COATAC, formando a la nueva generación de profesionales.
-* 🛠️ **Maker & Hardware:** Trasteo constantemente con Arduino y ESP32. Construyo mis propios sensores ambientales y hardware a medida (como macropads específicos para modelado 3D).
+* 👨‍🏫 **Docencia:**
+    * Profesor de competencias digitales en el **[COATAC](https://www.coatac.com/)**.
+    * Formador en **[The Factory School](https://thefactoryschool.com/)** ([Mi perfil de instructor](https://thefactoryschool.com/blog/jose-manuel-caamano/)).
+* 🔬 **Producción Científica:**
+    * Repositorio Institucional **[RIARTE](https://www.riarte.es/discover?scope=%2F&query=caama%C3%B1o+gonzalez&submit=)** (Consejo Superior de la Arquitectura Técnica).
+    * Perfil en **[Dialnet](https://dialnet.unirioja.es/servlet/autor?codigo=6031869)** (Base de datos científica).
+* 🛠️ **Maker & Hardware:** Trasteo constantemente con Arduino y ESP32. Construyo mis propios sensores ambientales y hardware a medida (macropads específicos para modelado 3D).
 * 🏃‍♂️ Cuando no estoy compilando código o analizando datos, me encontrarás corriendo un 10K, buscando joyas del catálogo de Mega Drive o paseando con mi perro Nemo.
 
 ---
@@ -39,19 +44,17 @@ Arquitecto Técnico y BIM Manager operando desde la trinchera en A Coruña. ☕ 
 
 ### 🚀 ¿Qué vas a encontrar en mis repositorios?
 
-Me gusta crear herramientas que resuelven problemas reales del día a día técnico:
-
 * 🏢 **Plataformas BIM:** Desde visores 3D ultraligeros hasta sistemas integrales (BIM Manager Hub) con control de usuarios y analítica de datos.
 * 📊 **Auditoría y Presupuestos:** Scripts de extracción geométrica (IFC a GLB) y cálculo de costes al vuelo.
-* 🦈 **Finanzas:** Calculadoras de inversión avanzadas (TIR, VAN, Payback) para análisis de viabilidad de proyectos.
 * 🤖 **Automatización:** Renombradores masivos, limpiadores de duplicados por hash MD5 y creadores de estructuras de proyecto estandarizadas.
-* 🕹️ **Hardware Custom:** Código de control e interfaces para dispositivos físicos impresos en 3D (Macropads).
+* 🕹️ **Hardware Custom:** Código de control e interfaces para dispositivos físicos (Macropads) adaptados a modelado 3D.
 
 ---
 
 ### 📫 Conecta conmigo
 
-Si quieres hablar de ConTech, gemelos digitales, o simplemente debatir sobre cuál es el mejor juego retro de Pokémon, aquí me tienes:
+Si quieres hablar de ConTech, gemelos digitales, o debatir sobre juegos retro:
 
 <a href="https://www.linkedin.com/in/josecaamano/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="http://josecaamano.io" target="_blank"><img src="https://img.shields.io/badge/Website-josecaamano.io-2b3137?style=for-the-badge" alt="Website"></a>
+<a href="https://discord.com/users/jmcaamanog" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+<a href="https://steamcommunity.com/id/jmcaamanog/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
