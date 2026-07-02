@@ -11,7 +11,7 @@ Arquitecto Técnico y BIM Manager operando desde la trinchera en A Coruña. ☕ 
 * 🏗️ Lidero el desarrollo de productos digitales, herramientas ConTech y Gemelos Digitales (Digital Twins).
 * 🎓 **Investigación:** Soy doctorando (PhD student) enfocado en la integración de Inteligencia Artificial (IA) e IoT para monitorizar y mejorar la calidad ambiental en la edificación.
 * 👨‍🏫 **Docencia:**
-    * Profesor de competencias digitales en el **[COATAC](https://www.coatac.com/)**.
+    * Profesor de competencias digitales en el **[COATAC](https://www.coatac.es/)**.
     * Formador en **[The Factory School](https://thefactoryschool.com/)** ([Mi perfil de instructor](https://thefactoryschool.com/blog/jose-manuel-caamano/)).
 * 🔬 **Producción Científica:**
     * Repositorio Institucional **[RIARTE](https://www.riarte.es/discover?scope=%2F&query=caama%C3%B1o+gonzalez&submit=)** (Consejo Superior de la Arquitectura Técnica).
