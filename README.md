@@ -6,6 +6,10 @@ Arquitecto Técnico y BIM Manager operando desde la trinchera en A Coruña. ☕ 
 
 ---
 
+* Ahora tengo web personal super chula ---> **[WEB DE JOSE !](https://jmcaamanog.pages.dev/)**
+---
+
+
 ### 👷‍♂️ Sobre mí
 
 * 🏗️ Lidero el desarrollo de productos digitales, herramientas ConTech y Gemelos Digitales (Digital Twins).
