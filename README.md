@@ -69,7 +69,8 @@ Una pequeña guía estructurada para orientarse entre las herramientas que desar
 ---
 
 ## 📫 Conecta conmigo
-
+**Jose Manuel Caamaño González** | Arquitecto Técnico & BIM Manager  
+Digital Product Lead | ConTech & Digital Twin SaaS | Data Analytics (SQL, Power BI)  
 ¿Quieres charlar sobre ConTech, gemelos digitales, software libre o debatir sobre consolas retro y entrenamientos? ¡Encantado de conectar!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jose_Manuel_Caamaño-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmcaamanog/)
@@ -79,10 +80,4 @@ Una pequeña guía estructurada para orientarse entre las herramientas que desar
 
 ---
 
-## 👨‍💻 Autor
-
-**Jose Manuel Caamaño González** | Arquitecto Técnico & BIM Manager  
-Digital Product Lead | ConTech & Digital Twin SaaS | Data Analytics (SQL, Power BI)  
-
-Hecho con código y café desde A Coruña. ☕  
-[LinkedIn](https://www.linkedin.com/in/jmcaamanog/) · [Web](https://jmcaamanog.pages.dev)
+Hecho con código y café desde A Coruña. ☕
