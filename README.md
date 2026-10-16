@@ -12,7 +12,7 @@
 | :--- | :--- | :--- |
 | **Mi Web Personal** | [Web](https://jmcaamanog.pages.dev/) | Portfolio interactivo, artículos técnicos y proyectos destacados. |
 | **BC3 Viewer Multiplataforma** | [BC3Viewer](https://bc3viewer-app.pages.dev/landing) | Visor y editor libre y 100% offline de presupuestos FIEBDC-3 (.bc3). |
-| **Formador BIM** | 🎓 **[The Factory School](https://thefactoryschool.com/blog/jose-manuel-caamano/)** | Mi perfil como instructor especializado en entornos y flujos BIM. |
+| **Formador BIM** | **[The Factory School](https://thefactoryschool.com/blog/jose-manuel-caamano/)** | Mi perfil como instructor especializado en entornos y flujos BIM. |
 | **Producción Científica** | 🔬 **[RIARTE](https://www.riarte.es/discover?scope=%2F&query=caama%C3%B1o+gonzalez&submit=)** · **[Dialnet](https://dialnet.unirioja.es/servlet/autor?codigo=6031869)** | Artículos de investigación doctoral sobre IA y monitorización IoT en edificación. |
 
 ---
@@ -22,10 +22,10 @@
 * 🏗️ **ConTech & Gemelos Digitales:** Lidero el diseño de productos digitales y plataformas SaaS orientadas a digitalizar el ciclo de vida de la edificación y optimizar la toma de decisiones con datos.
 * 🎓 **Investigación Aplicada (PhD Candidate):** Desarrollando tesis doctoral sobre la integración de Inteligencia Artificial (IA) e Internet de las Cosas (IoT) para monitorizar y predecir la calidad ambiental y eficiencia energética en edificios.
 * 👨‍🏫 **Formación y Transferencia:**
-  * Imparto formación en competencias digitales y automatización en el **[COATAC](https://www.coatac.es/)** (Colegio Oficial de la Arquitectura Técnica de A Coruña).
+  * Imparto formación en competencias digitales e IA **[COATAC](https://www.coatac.es/)** (Colegio Oficial de la Arquitectura Técnica de A Coruña).
   * Instructor en másteres y cursos especializados de BIM en **[The Factory School](https://thefactoryschool.com/)**.
-* 🛠️ **Maker & Open Hardware:** Trasteo habitualmente con microcontroladores (Arduino, ESP32, Raspberry Pi). Diseño e imprimo mis propios macropads mecánicos ergonómicos para acelerar el modelado 3D (Autodesk Fusion) y monto sensores ambientales caseros.
-* 🏃‍♂️ **Vida fuera del código:** Cuando apago el ordenador me encontrarás entrenando para la próxima carrera 10K, redescubriendo joyas del catálogo clásico de 16 bits de la Sega Mega Drive o paseando con mi perro Nemo por la costa gallega.
+* 🛠️ **Maker & Open Hardware:** Trasteo habitualmente con microcontroladores (Arduino, ESP32, Raspberry Pi). Diseño e imprimo en 3D toda clase de ideas guays modelado en 3D (Autodesk Fusion) y monto sensores ambientales caseros.
+* 🏃‍♂️ **Vida fuera del código:** Cuando apago el ordenador me encontrarás entrenando para la próxima carrera 10K, redescubriendo joyas del catálogo clásico de 16 bits de la Sega Mega Drive o paseando a Nemo por la costa gallega.
 
 ---
 
@@ -34,11 +34,11 @@
 Concibo el software como una herramienta colaborativa para compartir conocimiento y resolver fricciones reales:
 
 * 🌳 **[BC3 Viewer Multiplataforma](https://bc3viewer-app.pages.dev/landing) (FIEBDC-3 & BIM):**  
-  Desarrollado altruistamente para dotar a los Arquitectos Técnicos y profesionales AECO de España de una herramienta libre, moderna y **100% offline** (privacidad absoluta sin subir presupuestos a servidores externos) para visualizar, medir, editar y comparar archivos `.bc3`. Integra vinculación con modelos IFC 3D, diagramas de Gantt y exportación limpia a Excel y PDF en Windows, Android y Web.
-* 🏢 **Ecosistema Open Source Corporativo ([InditexTech](https://github.com/jmcaamanog?tab=repositories&q=inditex)):**  
+  Desarrollado altruistamente para dotar a los Arquitectos Técnicos y profesionales AECO de España de una herramienta libre, moderna y **100% GRATIS** (con privacidad absoluta sin subir presupuestos a servidores externos) para visualizar, medir, editar y comparar archivos `.bc3`. Integra vinculación con modelos IFC 3D, diagramas de Gantt y exportación limpia a Excel y PDF en Windows, Android y Web.
+* 🏢 **Open Source Corporativo: ([InditexTech](https://github.com/jmcaamanog?tab=repositories&q=inditex)):**  
   Participante y contribuidor en proyectos de código abierto del ecosistema tecnológico de Inditex ([cerbia](https://github.com/jmcaamanog/cerbia), [weavejs](https://github.com/jmcaamanog/weavejs), [kumoss](https://github.com/jmcaamanog/kumoss)), aportando mejoras en utilidades, arquitecturas web y tooling interno.
-* 🕹️ **Sistemas Embebidos & Kernel Linux ([RetroStoneOS](https://github.com/PaddleStroke/RetroStoneOS)):**  
-  Colaboración activa en el soporte hardware para la consola portátil **RetroStone 1** junto a Pierre (@PaddleStroke) en `PaddleStroke/RetroStoneOS#1`. Trabajo a bajo nivel en el subsistema DRM/KMS del kernel Linux y controladores de vídeo del SoC Allwinner H3 (Mixer DE2 y DAC de TV compuesto) para lograr la inicialización limpia y autónoma de la pantalla LCD integrada en arranque en frío.
+* 🕹️ **Mundo Consolas retro: ([RetroStoneOS](https://github.com/PaddleStroke/RetroStoneOS)):**  
+  Colaboración activa en el soporte hardware para la consola portátil **RetroStone 1** junto a Pierre (@PaddleStroke) en `PaddleStroke/RetroStoneOS#1` alternativo a RetroPie (me molan las consolas retro...). Trabajo a bajo nivel en el subsistema DRM/KMS del kernel Linux y controladores de vídeo del SoC Allwinner H3 (Mixer DE2 y DAC de TV compuesto) para lograr la inicialización limpia y autónoma de la pantalla LCD integrada en arranque en frío.
 
 ---
 
