@@ -1,9 +1,5 @@
 # ¡Hola! Soy Jose Manuel Caamaño 👋
 
-| 🏗️ Perfil & ConTech | 📈 Comunidad & Enlaces |
-| :--- | :--- |
-| ![Profesión](https://img.shields.io/badge/Profesi%C3%B3n-Arquitecto%20T%C3%A9cnico-2e7d32?logo=micro%3Abit&logoColor=white&style=plastic) <br> ![Role](https://img.shields.io/badge/Rol-BIM%20Manager%20%26%20ConTech-007ACC?logo=bim360&style=plastic) <br> ![Location](https://img.shields.io/badge/Ubicaci%C3%B3n-A%20Coru%C3%B1a%20%F0%9F%8C%8A-005B94?logo=lighthouse&logoColor=white&style=plastic) <br> ![Sector](https://img.shields.io/badge/Sector-ConTech%20%7C%20AECO-E65100?logo=construct3&style=plastic) <br> ![Maker](https://img.shields.io/badge/Maker-Software%20%26%20Hardware-red?logo=makerbot&style=plastic) <br> ![Investigación](https://img.shields.io/badge/Investigaci%C3%B3n-PhD%20Candidate%20(IA%2FIoT)-8b5cf6?logo=google-scholar&logoColor=white&style=plastic) | [![Web Personal](https://img.shields.io/badge/Web-jmcaamanog.pages.dev-00b4d8?logo=googlechrome&logoColor=white&style=plastic)](https://jmcaamanog.pages.dev/) <br> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=plastic)](https://www.linkedin.com/in/jmcaamanog/) <br> [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=plastic)](https://discord.com/users/jmcaamanog) <br> [![Steam](https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white&style=plastic)](https://steamcommunity.com/id/jmcaamanog/) <br> [![Licencia](https://img.shields.io/badge/Filosof%C3%ADa-Open%20Source%20%E2%99%A5-10b981?style=plastic)](https://github.com/jmcaamanog) |
-
 ### 🚀 Digital Product Lead | ConTech & Digital Twin SaaS | BIM, Energy Modeling & Sustainability | Data Analytics (SQL, Power BI)
 
 > *Arquitecto Técnico y BIM Manager operando desde la trinchera en A Coruña. ☕ Me dedico a tender puentes entre la construcción tradicional (sector AECO) y el software digital. Creo firmemente en las herramientas abiertas, útiles y transparentes: si algo se puede auditar, automatizar o modelar en 3D para facilitar el trabajo diario a los compañeros del sector, ahí estaré aportando código y compartiéndolo.*
@@ -14,9 +10,8 @@
 
 | 🌟 Recurso | 🚀 Enlace Directo | 📝 Descripción |
 | :--- | :--- | :--- |
-| **Mi Web Personal** | 🌐 **[jmcaamanog.pages.dev](https://jmcaamanog.pages.dev/)** | Portfolio interactivo, artículos técnicos y proyectos destacados. |
-| **BC3 Viewer Multiplataforma** | 🌳 **[BC3Viewer-App](https://github.com/jmcaamanog/BC3Viewer-App)** | Visor y editor libre y 100% offline de presupuestos FIEBDC-3 (.bc3). |
-| **Docencia COATAC** | 👨‍🏫 **[coatac.es](https://www.coatac.es/)** | Talleres prácticos y formación en competencias digitales para colegiados. |
+| **Mi Web Personal** | [Web](https://jmcaamanog.pages.dev/) | Portfolio interactivo, artículos técnicos y proyectos destacados. |
+| **BC3 Viewer Multiplataforma** | [BC3Viewer](https://bc3viewer-app.pages.dev/landing) | Visor y editor libre y 100% offline de presupuestos FIEBDC-3 (.bc3). |
 | **Formador BIM** | 🎓 **[The Factory School](https://thefactoryschool.com/blog/jose-manuel-caamano/)** | Mi perfil como instructor especializado en entornos y flujos BIM. |
 | **Producción Científica** | 🔬 **[RIARTE](https://www.riarte.es/discover?scope=%2F&query=caama%C3%B1o+gonzalez&submit=)** · **[Dialnet](https://dialnet.unirioja.es/servlet/autor?codigo=6031869)** | Artículos de investigación doctoral sobre IA y monitorización IoT en edificación. |
 
@@ -38,7 +33,7 @@
 
 Concibo el software como una herramienta colaborativa para compartir conocimiento y resolver fricciones reales:
 
-* 🌳 **[BC3 Viewer Multiplataforma](https://github.com/jmcaamanog/BC3Viewer-App) (FIEBDC-3 & BIM):**  
+* 🌳 **[BC3 Viewer Multiplataforma](https://bc3viewer-app.pages.dev/landing) (FIEBDC-3 & BIM):**  
   Desarrollado altruistamente para dotar a los Arquitectos Técnicos y profesionales AECO de España de una herramienta libre, moderna y **100% offline** (privacidad absoluta sin subir presupuestos a servidores externos) para visualizar, medir, editar y comparar archivos `.bc3`. Integra vinculación con modelos IFC 3D, diagramas de Gantt y exportación limpia a Excel y PDF en Windows, Android y Web.
 * 🏢 **Ecosistema Open Source Corporativo ([InditexTech](https://github.com/jmcaamanog?tab=repositories&q=inditex)):**  
   Participante y contribuidor en proyectos de código abierto del ecosistema tecnológico de Inditex ([cerbia](https://github.com/jmcaamanog/cerbia), [weavejs](https://github.com/jmcaamanog/weavejs), [kumoss](https://github.com/jmcaamanog/kumoss)), aportando mejoras en utilidades, arquitecturas web y tooling interno.
