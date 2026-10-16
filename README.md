@@ -1,64 +1,93 @@
-# ¡Hola! Soy Jose Manuel Caamaño, Arquitecto técnico ConTech!👋
+# ¡Hola! Soy Jose Manuel Caamaño 👋
 
-**Digital Product Lead | ConTech & Digital Twin SaaS | BIM, Energy Modeling & Sustainability | Data Analytics (SQL, Power BI)**
+| 🏗️ Perfil & ConTech | 📈 Comunidad & Enlaces |
+| :--- | :--- |
+| ![Profesión](https://img.shields.io/badge/Profesi%C3%B3n-Arquitecto%20T%C3%A9cnico-2e7d32?logo=micro%3Abit&logoColor=white&style=plastic) <br> ![Role](https://img.shields.io/badge/Rol-BIM%20Manager%20%26%20ConTech-007ACC?logo=bim360&style=plastic) <br> ![Location](https://img.shields.io/badge/Ubicaci%C3%B3n-A%20Coru%C3%B1a%20%F0%9F%8C%8A-005B94?logo=lighthouse&logoColor=white&style=plastic) <br> ![Sector](https://img.shields.io/badge/Sector-ConTech%20%7C%20AECO-E65100?logo=construct3&style=plastic) <br> ![Maker](https://img.shields.io/badge/Maker-Software%20%26%20Hardware-red?logo=makerbot&style=plastic) <br> ![Investigación](https://img.shields.io/badge/Investigaci%C3%B3n-PhD%20Candidate%20(IA%2FIoT)-8b5cf6?logo=google-scholar&logoColor=white&style=plastic) | [![Web Personal](https://img.shields.io/badge/Web-jmcaamanog.pages.dev-00b4d8?logo=googlechrome&logoColor=white&style=plastic)](https://jmcaamanog.pages.dev/) <br> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=plastic)](https://www.linkedin.com/in/jmcaamanog/) <br> [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=plastic)](https://discord.com/users/jmcaamanog) <br> [![Steam](https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white&style=plastic)](https://steamcommunity.com/id/jmcaamanog/) <br> [![Licencia](https://img.shields.io/badge/Filosof%C3%ADa-Open%20Source%20%E2%99%A5-10b981?style=plastic)](https://github.com/jmcaamanog) |
 
-Arquitecto Técnico y BIM Manager operando desde la trinchera en A Coruña. ☕ Me dedico a construir puentes entre la construcción tradicional (sector AECO) y el ecosistema digital. Si algo se puede automatizar, auditar o visualizar en 3D, probablemente ya esté escribiendo un script en Python para hacerlo.
+### 🚀 Digital Product Lead | ConTech & Digital Twin SaaS | BIM, Energy Modeling & Sustainability | Data Analytics (SQL, Power BI)
 
----
-
-* Ahora tengo web personal super chula ---> **[WEB DE JOSE !](https://jmcaamanog.pages.dev/)**
----
-
-
-### 👷‍♂️ Sobre mí
-
-* 🏗️ Lidero el desarrollo de productos digitales, herramientas ConTech y Gemelos Digitales (Digital Twins).
-* 🎓 **Investigación:** Soy doctorando (PhD student) enfocado en la integración de Inteligencia Artificial (IA) e IoT para monitorizar y mejorar la calidad ambiental en la edificación.
-* 👨‍🏫 **Docencia:**
-    * Profesor de competencias digitales en el **[COATAC](https://www.coatac.es/)** cuando tengo tiempo XD.
-    * Formador BIM en **[The Factory School](https://thefactoryschool.com/)** ([Mi perfil de instructor](https://thefactoryschool.com/blog/jose-manuel-caamano/)).
-* 🔬 **Producción Científica:**
-    * Repositorio Institucional **[RIARTE](https://www.riarte.es/discover?scope=%2F&query=caama%C3%B1o+gonzalez&submit=)** (Consejo Superior de la Arquitectura Técnica).
-    * Perfil en **[Dialnet](https://dialnet.unirioja.es/servlet/autor?codigo=6031869)** (Base de datos científica).
-* 🛠️ **Maker & Hardware:** Trasteo constantemente con Arduino y ESP32. Construyo mis propios sensores ambientales y hardware a medida (macropads específicos para modelado 3D).
-* 🏃‍♂️ Cuando no estoy compilando código o analizando datos, me encontrarás corriendo un 10K, buscando joyas del catálogo de Mega Drive o paseando con mi perro Nemo.
+> *Arquitecto Técnico y BIM Manager operando desde la trinchera en A Coruña. ☕ Me dedico a tender puentes entre la construcción tradicional (sector AECO) y el software digital. Creo firmemente en las herramientas abiertas, útiles y transparentes: si algo se puede auditar, automatizar o modelar en 3D para facilitar el trabajo diario a los compañeros del sector, ahí estaré aportando código y compartiéndolo.*
 
 ---
 
-### 💻 Stack Tecnológico y Herramientas
+## ⚡ Enlaces y Accesos Rápidos
 
-**Desarrollo & Data Analytics:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**BIM & 3D (Librerías principales):**
-![IfcOpenShell](https://img.shields.io/badge/IfcOpenShell-BIM-success?style=for-the-badge)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![PyVista](https://img.shields.io/badge/PyVista-3D_Viz-orange?style=for-the-badge)
-![Trimesh](https://img.shields.io/badge/Trimesh-Geometry-blueviolet?style=for-the-badge)
-
-**Interfaces & Hardware:**
-![CustomTkinter](https://img.shields.io/badge/CustomTkinter-GUI-2fa5d6?style=for-the-badge)
-![PyQt5](https://img.shields.io/badge/PyQt5-GUI-41CD52?style=for-the-badge)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+| 🌟 Recurso | 🚀 Enlace Directo | 📝 Descripción |
+| :--- | :--- | :--- |
+| **Mi Web Personal** | 🌐 **[jmcaamanog.pages.dev](https://jmcaamanog.pages.dev/)** | Portfolio interactivo, artículos técnicos y proyectos destacados. |
+| **BC3 Viewer Multiplataforma** | 🌳 **[BC3Viewer-App](https://github.com/jmcaamanog/BC3Viewer-App)** | Visor y editor libre y 100% offline de presupuestos FIEBDC-3 (.bc3). |
+| **Docencia COATAC** | 👨‍🏫 **[coatac.es](https://www.coatac.es/)** | Talleres prácticos y formación en competencias digitales para colegiados. |
+| **Formador BIM** | 🎓 **[The Factory School](https://thefactoryschool.com/blog/jose-manuel-caamano/)** | Mi perfil como instructor especializado en entornos y flujos BIM. |
+| **Producción Científica** | 🔬 **[RIARTE](https://www.riarte.es/discover?scope=%2F&query=caama%C3%B1o+gonzalez&submit=)** · **[Dialnet](https://dialnet.unirioja.es/servlet/autor?codigo=6031869)** | Artículos de investigación doctoral sobre IA y monitorización IoT en edificación. |
 
 ---
 
-### 🚀 ¿Qué vas a encontrar en mis repositorios?
+## 👷‍♂️ Sobre mí
 
-* 🏢 **Plataformas BIM:** Desde visores 3D ultraligeros hasta sistemas integrales (BIM Manager Hub) con control de usuarios y analítica de datos.
-* 📊 **Auditoría y Presupuestos:** Scripts de extracción geométrica (IFC a GLB) y cálculo de costes al vuelo.
-* 🤖 **Automatización:** Renombradores masivos, limpiadores de duplicados por hash MD5 y creadores de estructuras de proyecto estandarizadas.
-* 🕹️ **Hardware Custom:** Código de control e interfaces para dispositivos físicos (Macropads) adaptados a modelado 3D.
+* 🏗️ **ConTech & Gemelos Digitales:** Lidero el diseño de productos digitales y plataformas SaaS orientadas a digitalizar el ciclo de vida de la edificación y optimizar la toma de decisiones con datos.
+* 🎓 **Investigación Aplicada (PhD Candidate):** Desarrollando tesis doctoral sobre la integración de Inteligencia Artificial (IA) e Internet de las Cosas (IoT) para monitorizar y predecir la calidad ambiental y eficiencia energética en edificios.
+* 👨‍🏫 **Formación y Transferencia:**
+  * Imparto formación en competencias digitales y automatización en el **[COATAC](https://www.coatac.es/)** (Colegio Oficial de la Arquitectura Técnica de A Coruña).
+  * Instructor en másteres y cursos especializados de BIM en **[The Factory School](https://thefactoryschool.com/)**.
+* 🛠️ **Maker & Open Hardware:** Trasteo habitualmente con microcontroladores (Arduino, ESP32, Raspberry Pi). Diseño e imprimo mis propios macropads mecánicos ergonómicos para acelerar el modelado 3D (Autodesk Fusion) y monto sensores ambientales caseros.
+* 🏃‍♂️ **Vida fuera del código:** Cuando apago el ordenador me encontrarás entrenando para la próxima carrera 10K, redescubriendo joyas del catálogo clásico de 16 bits de la Sega Mega Drive o paseando con mi perro Nemo por la costa gallega.
 
 ---
 
-### 📫 Conecta conmigo
+## 🤝 Comunidad, Open Source & Colaboraciones
 
-Si quieres hablar de ConTech, gemelos digitales, o debatir sobre juegos retro:
+Concibo el software como una herramienta colaborativa para compartir conocimiento y resolver fricciones reales:
 
-<a href="https://www.linkedin.com/in/josecaamano/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://discord.com/users/jmcaamanog" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-<a href="https://steamcommunity.com/id/jmcaamanog/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
+* 🌳 **[BC3 Viewer Multiplataforma](https://github.com/jmcaamanog/BC3Viewer-App) (FIEBDC-3 & BIM):**  
+  Desarrollado altruistamente para dotar a los Arquitectos Técnicos y profesionales AECO de España de una herramienta libre, moderna y **100% offline** (privacidad absoluta sin subir presupuestos a servidores externos) para visualizar, medir, editar y comparar archivos `.bc3`. Integra vinculación con modelos IFC 3D, diagramas de Gantt y exportación limpia a Excel y PDF en Windows, Android y Web.
+* 🏢 **Ecosistema Open Source Corporativo ([InditexTech](https://github.com/jmcaamanog?tab=repositories&q=inditex)):**  
+  Participante y contribuidor en proyectos de código abierto del ecosistema tecnológico de Inditex ([cerbia](https://github.com/jmcaamanog/cerbia), [weavejs](https://github.com/jmcaamanog/weavejs), [kumoss](https://github.com/jmcaamanog/kumoss)), aportando mejoras en utilidades, arquitecturas web y tooling interno.
+* 🕹️ **Sistemas Embebidos & Kernel Linux ([RetroStoneOS](https://github.com/PaddleStroke/RetroStoneOS)):**  
+  Colaboración activa en el soporte hardware para la consola portátil **RetroStone 1** junto a Pierre (@PaddleStroke) en `PaddleStroke/RetroStoneOS#1`. Trabajo a bajo nivel en el subsistema DRM/KMS del kernel Linux y controladores de vídeo del SoC Allwinner H3 (Mixer DE2 y DAC de TV compuesto) para lograr la inicialización limpia y autónoma de la pantalla LCD integrada en arranque en frío.
+
+---
+
+## 🗺️ Mapa de Inquietudes & Proyectos (Repositorios)
+
+Una pequeña guía estructurada para orientarse entre las herramientas que desarrollo en mi día a día y en ratos libres:
+
+| Área / Inquietud | Icono | Repositorios & Proyectos Destacados | Propósito & Enfoque |
+| :--- | :---: | :--- | :--- |
+| **ConTech & openBIM** | 🏗️ | [BC3Viewer-App](https://github.com/jmcaamanog/BC3Viewer-App) · [Visor-IFC-Pro](https://github.com/jmcaamanog/Visor-IFC-Pro) · [visor-ifc-pyvista](https://github.com/jmcaamanog/visor-ifc-pyvista-COATAC) · [aparejador-ninja-bim](https://github.com/jmcaamanog/aparejador-ninja-bim) · [revisor-familias-ifc](https://github.com/jmcaamanog/revisor-familias-ifc) | Visores 3D ligeros de modelos IFC, extracción geométrica a GLB, estimación de costes al vuelo y analítica de datos AECO. |
+| **Open Source Corporativo** | 🏢 | [InditexTech Colaboraciones](https://github.com/jmcaamanog?tab=repositories&q=inditex) ([cerbia](https://github.com/jmcaamanog/cerbia) · [weavejs](https://github.com/jmcaamanog/weavejs) · [kumoss](https://github.com/jmcaamanog/kumoss)) | Contribuciones y extensiones en herramientas de infraestructura, librerías frontend y utilidades cloud. |
+| **Maker & Hardware DIY** | 🛠️ | [Macropad-3D-by-JMC](https://github.com/jmcaamanog/Macropad-3D-by-JMC) · [bobeda-esp32](https://github.com/jmcaamanog/bobeda-esp32) · [Bloqueador_Publicidad_Nemo](https://github.com/jmcaamanog/Bloqueador_Publicidad_Nemo_Raspberry) | Teclados mecánicos impresos en 3D para Fusion 360 (Arduino), bóvedas cifradas en ESP32 y DNS de red local con Pi-hole/Unbound. |
+| **Retro & Sistemas Embebidos** | 🕹️ | [RetroStoneOS](https://github.com/jmcaamanog/RetroStoneOS) · [jose-se-aburre-game](https://github.com/jmcaamanog/jose-se-aburre-game) | Parches de kernel Linux (DRM/KMS), soporte de hardware Allwinner H3 y pequeños experimentos lúdicos en JavaScript. |
+| **Automatización & Datos** | 🤖 | [Limpiador-duplicados](https://github.com/jmcaamanog/Limpiador-duplicados) · [Renombrador-Masivo](https://github.com/jmcaamanog/Renombrador-Masivo-de-Archivos-) · [Organizador-de-carpetas](https://github.com/jmcaamanog/Organizador-de-carpetas) · [PDF_TO_MD](https://github.com/jmcaamanog/PDF_TO_MD_BY_JMCAAMANOG) · [ATA](https://github.com/jmcaamanog/ATA-Arquitecto_Tecnico_Artificial) | Utilidades de escritorio para optimizar flujos de trabajo diarios, filtrado por hash MD5 y datasets en Cloudflare Workers. |
+| **Salud, Fuerza & Hábitos** | 🏃‍♂️ | [GymNemo](https://github.com/jmcaamanog/GymNemo) | Registro 100% offline, seguro y privado para el seguimiento y control de entrenamientos de fuerza. |
+
+---
+
+## 💻 Stack Tecnológico y Herramientas
+
+| Categoría | Tecnologías y Librerías |
+| :--- | :--- |
+| **Desarrollo & Data Analytics** | ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=postgresql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=black) |
+| **openBIM, Geometría & 3D** | ![IfcOpenShell](https://img.shields.io/badge/IfcOpenShell-BIM-2e7d32?style=plastic) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=plastic&logo=threedotjs&logoColor=white) ![PyVista](https://img.shields.io/badge/PyVista-3D_Viz-ff6f00?style=plastic) ![Trimesh](https://img.shields.io/badge/Trimesh-Geometry-7b1fa2?style=plastic) |
+| **Desktop Apps & Frameworks** | ![Tauri](https://img.shields.io/badge/Tauri-Desktop-24C8DB?style=plastic&logo=tauri&logoColor=white) ![Capacitor](https://img.shields.io/badge/Capacitor-Mobile-119EFF?style=plastic&logo=capacitor&logoColor=white) ![PyQt5](https://img.shields.io/badge/PyQt5-GUI-41CD52?style=plastic&logo=qt&logoColor=white) ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-GUI-1f538d?style=plastic) |
+| **Hardware, IoT & Embebidos** | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=plastic&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-Espressif-E7352C?style=plastic&logo=espressif&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=plastic&logo=raspberrypi&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-Kernel_DRM-FCC624?style=plastic&logo=linux&logoColor=black) |
+
+---
+
+## 📫 Conecta conmigo
+
+¿Quieres charlar sobre ConTech, gemelos digitales, software libre o debatir sobre consolas retro y entrenamientos? ¡Encantado de conectar!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jose_Manuel_Caamaño-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmcaamanog/)
+[![Web Personal](https://img.shields.io/badge/Web-jmcaamanog.pages.dev-00b4d8?style=plastic&logo=googlechrome&logoColor=white)](https://jmcaamanog.pages.dev/)
+[![Discord](https://img.shields.io/badge/Discord-jmcaamanog-5865F2?style=plastic&logo=discord&logoColor=white)](https://discord.com/users/jmcaamanog)
+[![Steam](https://img.shields.io/badge/Steam-jmcaamanog-000000?style=plastic&logo=steam&logoColor=white)](https://steamcommunity.com/id/jmcaamanog/)
+
+---
+
+## 👨‍💻 Autor
+
+**Jose Manuel Caamaño González** | Arquitecto Técnico & BIM Manager  
+Digital Product Lead | ConTech & Digital Twin SaaS | Data Analytics (SQL, Power BI)  
+
+Hecho con código y café desde A Coruña. ☕  
+[LinkedIn](https://www.linkedin.com/in/jmcaamanog/) · [Web](https://jmcaamanog.pages.dev)
