@@ -13,7 +13,7 @@
 | **Mi Web Personal** | [Web](https://jmcaamanog.pages.dev/) | Portfolio interactivo, artículos técnicos y proyectos destacados. |
 | **BC3 Viewer Multiplataforma** | [BC3Viewer](https://bc3viewer-app.pages.dev/landing) | Visor y editor libre y 100% offline de presupuestos FIEBDC-3 (.bc3). |
 | **Formador BIM** | **[The Factory School](https://thefactoryschool.com/blog/jose-manuel-caamano/)** | Mi perfil como instructor especializado en entornos y flujos BIM. |
-| **Producción Científica** | 🔬 **[RIARTE](https://www.riarte.es/discover?scope=%2F&query=caama%C3%B1o+gonzalez&submit=)** · **[Dialnet](https://dialnet.unirioja.es/servlet/autor?codigo=6031869)** | Artículos de investigación doctoral sobre IA y monitorización IoT en edificación. |
+| **Producción Científica** | **[RIARTE](https://www.riarte.es/discover?scope=%2F&query=caama%C3%B1o+gonzalez&submit=)** · **[Dialnet](https://dialnet.unirioja.es/servlet/autor?codigo=6031869)** | Artículos de investigación doctoral sobre IA y monitorización IoT en edificación. |
 
 ---
 
