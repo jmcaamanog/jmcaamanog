@@ -1,8 +1,8 @@
 # ¡Hola! Soy Jose Manuel Caamaño 👋
 
-### 🚀 Digital Product Lead | ConTech & Digital Twin SaaS | BIM, Energy Modeling & Sustainability | Data Analytics (SQL, Power BI)
+### 🚀 ConTech & AI Developer | Arquitecto Técnico & BIM Manager | Construcción Industrializada & Madera CLT | Ph.D. (c)
 
-> *Arquitecto Técnico y BIM Manager operando desde la trinchera en A Coruña. ☕ Me dedico a tender puentes entre la construcción tradicional (sector AECO) y el software digital. Creo firmemente en las herramientas abiertas, útiles y transparentes: si algo se puede auditar, automatizar o modelar en 3D para facilitar el trabajo diario a los compañeros del sector, ahí estaré aportando código y compartiéndolo.*
+> *Arquitecto Técnico (Colegiado nº 2.873 COATAC), ConTech Developer y Project Manager (PMP®) operando desde la trinchera en A Coruña. ☕ Conecto la experiencia de obra tradicional (Dirección de Ejecución DEO, rehabilitación, peritajes) con la vanguardia tecnológica: desarrollo de software libre para la construcción (BC3Viewer), servidores MCP y agentes de IA, metodología BIM (ISO 19650), construcción industrializada y estructuras de madera CLT.*
 
 ---
 
@@ -10,10 +10,11 @@
 
 | 🌟 Recurso | 🚀 Enlace Directo | 📝 Descripción |
 | :--- | :--- | :--- |
-| **Mi Web Personal** | [Web](https://jmcaamanog.com/) | Portfolio interactivo, artículos técnicos y proyectos destacados. |
-| **BC3 Viewer Multiplataforma** | [BC3Viewer](https://bc3viewer-app.pages.dev/landing) | Visor y editor libre y 100% offline de presupuestos FIEBDC-3 (.bc3). |
-| **Formador BIM** | **[The Factory School](https://thefactoryschool.com/blog/jose-manuel-caamano/)** | Mi perfil como instructor especializado en entornos y flujos BIM. |
-| **Producción Científica** | **[RIARTE](https://www.riarte.es/discover?scope=%2F&query=caama%C3%B1o+gonzalez&submit=)** · **[Dialnet](https://dialnet.unirioja.es/servlet/autor?codigo=6031869)** | Artículos de investigación doctoral sobre IA y monitorización IoT en edificación. |
+| **Mi Web Oficial** | [jmcaamanog.com](https://jmcaamanog.com/) | Portfolio interactivo ConTech, gemelos digitales y servicios profesionales. |
+| **BC3 Viewer Multiplataforma** | [BC3Viewer](https://bc3viewer-app.pages.dev/landing) | Primer visor y auditor libre y offline de presupuestos FIEBDC-3 (.bc3). |
+| **Plan Formación IA (COATAC)** | 🎓 **[Formación ConTech IA](https://formacion.jmcaamanog.com/)** | Portal oficial de formación en Inteligencia Artificial para la Arquitectura Técnica. |
+| **Expediente Legal Drones UAS** | 🚁 **[Acreditación AESA](https://jmcaamanog.com/dron-legal)** | Licencias oficiales EASA/AESA (STS, A1/A3, A2), radiofonista y flota de drones. |
+| **Producción Científica** | 🔬 **[RIARTE](https://www.riarte.es/discover?scope=%2F&query=caama%C3%B1o+gonzalez&submit=)** · **[Dialnet](https://dialnet.unirioja.es/servlet/autor?codigo=6031869)** | Ponencias CONTART e investigación doctoral (CITEEC/UDC) en confort y madera. |
 
 ---
 
@@ -74,10 +75,16 @@ Digital Product Lead | ConTech & Digital Twin SaaS | Data Analytics (SQL, Power 
 ¿Quieres charlar sobre ConTech, gemelos digitales, software libre o debatir sobre consolas retro y entrenamientos? ¡Encantado de conectar!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jose_Manuel_Caamaño-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmcaamanog/)
-[![Web Personal](https://img.shields.io/badge/Web-jmcaamanog.pages.dev-00b4d8?style=plastic&logo=googlechrome&logoColor=white)](https://jmcaamanog.pages.dev/)
+[![Web Personal](https://img.shields.io/badge/Web-jmcaamanog.com-00b4d8?style=plastic&logo=googlechrome&logoColor=white)](https://jmcaamanog.com/)
 [![Discord](https://img.shields.io/badge/Discord-jmcaamanog-5865F2?style=plastic&logo=discord&logoColor=white)](https://discord.com/users/jmcaamanog)
 [![Steam](https://img.shields.io/badge/Steam-jmcaamanog-000000?style=plastic&logo=steam&logoColor=white)](https://steamcommunity.com/id/jmcaamanog/)
 
 ---
 
-Hecho con código y café desde A Coruña. ☕
+## 👨‍💻 Autor
+
+**Jose Manuel Caamaño González** | Arquitecto Técnico & ConTech Developer  
+Construcción Industrializada & Madera CLT | BIM Manager | IA Aplicada AECO  
+
+Hecho con código y café desde A Coruña. ☕  
+[LinkedIn](https://www.linkedin.com/in/jmcaamanog/) · [Web](https://jmcaamanog.com/)
